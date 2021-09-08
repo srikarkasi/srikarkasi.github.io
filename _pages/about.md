@@ -12,7 +12,7 @@ redirect_from:
 
 **Research Interests:** 5G and nextG Wireless Networks, Quantum Computing, Graph Theory.
 
-My research involves design, implementation, and evaluation of quantum computational algorithms and hardware for wireless cellular baseband processing, further efforts make the case for the future feasibility of quantum processing based cellular radio access networks in terms of cost and power.
+My research involves design, implementation, and evaluation of quantum computational algorithms for wireless cellular baseband processing with focus on quantum hardware design. My further efforts make the case for the future feasibility of quantum processing based cellular radio access networks in terms of cost and power.
 
 <!-- A data-driven personal website
 ======
