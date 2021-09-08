@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Short Bio:** I am a 4<sup>th</sup> year graduate student with [PAWS](https://paws.cs.princeton.edu/) research group in the Computer Science department at Princeton University, advised by Prof. [Kyle Jamieson](https://www.cs.princeton.edu/~kylej/).
+**Short Bio:** I am a 4<sup>th</sup> year graduate student in the Computer Science department at Princeton University, with [PAWS](https://paws.cs.princeton.edu/) research group, advised by Prof. [Kyle Jamieson](https://www.cs.princeton.edu/~kylej/).
 
 <!-- A data-driven personal website
 ======
