@@ -10,7 +10,7 @@ redirect_from:
 
 **Short Bio:** I am a 4<sup>th</sup> year Ph.D. student in the Computer Science department at Princeton University, with [PAWS](https://paws.cs.princeton.edu/) research group, advised by Prof. [Kyle Jamieson](https://www.cs.princeton.edu/~kylej/). Prior to joining Princeton, I graduated from Indian Institute of Technology (IIT) Delhi in 2018 with B.Tech in Electrical Engineering.
 
-**Research:** 5G and nextG Wireless Networks, Quantum Computing, Graph Theory.
+**Research Interest:** 5G and nextG Wireless Networks, Quantum Computing, Mobile Systems, Graph Theory.
 
 My research involves design, implementation, and evaluation of quantum computational algorithms and hardware for wireless cellular baseband processing, further efforts make the case for the future feasibility of quantum processing based cellular radio access networks in terms of cost and power.
 
