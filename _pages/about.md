@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<a target="_blank" rel="noopener noreferrer" href="https://www.cs.princeton.edu/~kylej/">Kyle Jamieson</a>
-
-**Short Bio:** I am a fourth year Ph.D. student in the Computer Science department at Princeton University, working with [PAWS](https://paws.cs.princeton.edu/) research group, advised by Prof. [Kyle Jamieson](https://www.cs.princeton.edu/~kylej/). Prior to joining Princeton, I graduated from the Indian Institute of Technology (IIT) Delhi in 2018 with B.Tech in Electrical Engineering.
+**Short Bio:** I am a fourth year Ph.D. student in the Computer Science department at Princeton University, working with <a target="_blank" rel="noopener noreferrer" href="https://paws.cs.princeton.edu/">PAWS</a> research group, advised by Prof. <a target="_blank" rel="noopener noreferrer" href="https://www.cs.princeton.edu/~kylej/">Kyle Jamieson</a>. Prior to joining Princeton, I graduated from the Indian Institute of Technology (IIT) Delhi in 2018 with B.Tech in Electrical Engineering.
 
 **Research Interests:** 5G and nextG Wireless Networks, Quantum Computing, Graph Theory.
 
