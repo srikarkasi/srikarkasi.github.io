@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Srikar Kasi"
-description              : &description "I am a graduate student with the Department of Computer Science at Princeton University. My research focus is in quantum computation for wireless networks."
+description              : &description ""
 url                      : https://srikarkasi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "srikarkasi/srikarkasi.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dic7kEcAAAAJ&hl=en"
-  email            : <a target="_blank" rel="noopener noreferrer" href="skasi@princeton.edu"></a>
+  email            : "skasi@princeton.edu"
   researchgate     :  
   uri              :
   bitbucket        :
