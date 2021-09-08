@@ -117,6 +117,14 @@ author:
   wikipedia        :
 
 
+
+
+<a target="_blank" rel="noopener noreferrer" href="{{author.googlescholar}}"></a>
+<a target="_blank" rel="noopener noreferrer" href="{{author.linkedin}}"></a>
+<a target="_blank" rel="noopener noreferrer" href="{{author.orcid}}"></a>
+<a target="_blank" rel="noopener noreferrer" href="{{author.email}}"></a>
+
+
 # Reading Files
 include:
   - .htaccess
@@ -244,6 +252,8 @@ defaults:
 #       layout: talk
 #       author_profile: true
 #       share: true
+
+
 
 # Sass/SCSS
 sass:
