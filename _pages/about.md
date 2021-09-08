@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Short Bio** Ongoing
+**Short Bio:** Ongoing
 
 <!-- A data-driven personal website
 ======
