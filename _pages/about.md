@@ -10,6 +10,8 @@ redirect_from:
 
 **Short Bio:** I am a 4<sup>th</sup> year Ph.D. student in the Computer Science department at Princeton University, with [PAWS](https://paws.cs.princeton.edu/) research group, advised by Prof. [Kyle Jamieson](https://www.cs.princeton.edu/~kylej/). Prior to joining Princeton, I graduated from Indian Institute of Technology (IIT) Delhi in 2018 with B.Tech in Electrical Engineering.
 
+**Research:** My graduate studies focus on 5G and nextG wireless networks, quantum computing, and graph theory. My research involves design, implementation, and evaluation of quantum computational algorithms and hardware for wireless cellular baseband processing, further efforts make the case for the future feasibility of quantum processing based cellular radio access networks.
+
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
