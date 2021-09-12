@@ -1,10 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: 
-excerpt: 
+permalink: 
 author_profile: true
-redirect_from: 
-
 ---
 
 **Short Bio:** I am a fourth year Ph.D. student in the Computer Science department at Princeton University, working with <a target="_blank" rel="noopener noreferrer" href="https://paws.cs.princeton.edu/">PAWS</a> research group, advised by Prof. <a target="_blank" rel="noopener noreferrer" href="https://www.cs.princeton.edu/~kylej/">Kyle Jamieson</a>. Prior to joining Princeton, I graduated from the Indian Institute of Technology (IIT) Delhi in 2018 with B.Tech in Electrical Engineering.
