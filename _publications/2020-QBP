@@ -1,7 +1,5 @@
 ---
 title: "Towards Quantum Belief Propagation for LDPC Decoding in Wireless Networks"
-collection: publications
-permalink: /publication/2020-QBP
 venue: 'ACM MobiCom 2020'
 paperurl: 'https://dl.acm.org/doi/10.1145/3372224.3419207'
 ---
