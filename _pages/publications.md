@@ -17,10 +17,10 @@ author_profile: true
 
 
 ---
-permalink: /
+<!-- permalink: /
 title: 
 excerpt: 
-author_profile: true
+author_profile: true -->
 <!-- redirect_from: 
   - /about/
   - /publication.html -->
